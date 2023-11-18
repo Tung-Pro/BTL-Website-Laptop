@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
     text-decoration: none;
-    list-style: none;
+    /* list-style: none; */
     box-sizing: border-box;
     line-height: 150%;
 }
@@ -32,6 +32,8 @@ nav{
     width: 45px;
 }
 .nav-card{
+    list-style: none;
+
     display: flex;
     padding: 0;
     width: 100%;

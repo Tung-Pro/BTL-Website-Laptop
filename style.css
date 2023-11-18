@@ -47,9 +47,10 @@ nav{
 }
 .cot-10 .nav-card a:hover{
     background: #f6f9fc;
-    color: red;
+    color:red;
     padding: 10px;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 .menu ul{
